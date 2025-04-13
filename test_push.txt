@@ -2,4 +2,6 @@ print("hello world")
 
 check branch
 
-;dsalkjfasdlkfjas;dlkfj;
+<<<<<<< HEAD
+conflict context
+>>>>>>> conflict
